@@ -16,7 +16,7 @@ import com.eveningoutpost.dexdrip.xdrip;
 
 import java.lang.reflect.Method;
 
-import androidx.annotation.RequiresApi;
+import android.support.annotation.RequiresApi;
 
 import static android.bluetooth.BluetoothDevice.TRANSPORT_LE;
 

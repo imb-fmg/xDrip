@@ -8,7 +8,7 @@ import android.content.Context;
 import android.provider.BaseColumns;
 import android.util.Pair;
 
-import androidx.annotation.Nullable;
+import android.support.annotation.Nullable;
 
 import com.activeandroid.Model;
 import com.activeandroid.annotation.Column;

@@ -2,7 +2,7 @@ package com.eveningoutpost.dexdrip.webservices;
 
 import android.util.Log;
 
-import androidx.annotation.VisibleForTesting;
+import android.support.annotation.VisibleForTesting;
 
 import com.eveningoutpost.dexdrip.Home;
 import com.eveningoutpost.dexdrip.Models.BgReading;

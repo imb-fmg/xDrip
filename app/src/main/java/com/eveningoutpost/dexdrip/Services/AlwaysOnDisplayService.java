@@ -24,7 +24,7 @@ import com.eveningoutpost.dexdrip.UtilityModels.Inevitable;
 import com.eveningoutpost.dexdrip.utils.math.BlockFinder;
 import com.eveningoutpost.dexdrip.xDripWidget;
 
-import androidx.annotation.RequiresApi;
+import android.support.annotation.RequiresApi;
 import lombok.val;
 
 import static android.graphics.PixelFormat.TRANSLUCENT;
